@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sepe Gennaro</title>
+    <link>https://gsepe-dev.github.io/</link>
+    <description>Recent content on Sepe Gennaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gsepe-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THE BRUTALIST</title>
+      <link>https://gsepe-dev.github.io/posts/rev02/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://gsepe-dev.github.io/posts/rev02/</guid>
+      <description>&amp;ldquo;The Brutalist&amp;rdquo; è il nuovo film di Brady Corbet con protagonista Adrien Brody, un duo che non ha certo bisogno di presentazioni.&#xA;Questo film è monumentale sotto ogni punto di vista, tanto da sembrare un colossal.&#xA;Il fatto che sia costato &amp;ldquo;solo&amp;rdquo; dieci milioni e sia stato girato in un mese lo rende ancora più impressionante, nonostante il doppiaggio italiano non gli renda giustizia come la versione originale.&#xA;La trama si sviluppa interamente attorno alla figura dell&amp;rsquo;architetto László Toth e sulla sua fuga dall&amp;rsquo;Europa del dopoguerra nel 1947, in cerca di fortuna in America.</description>
+    </item>
+    <item>
+      <title>TENSHI NO TAMAGO</title>
+      <link>https://gsepe-dev.github.io/posts/rev01/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gsepe-dev.github.io/posts/rev01/</guid>
+      <description>&amp;ldquo;Tenshi no tamago&amp;rdquo; è un film d&amp;rsquo;animazione giapponese del 1985, diretto da Mamoru Oshii (noto anche per il celebre “Ghost in the Shell”) che, fin dalla sua uscita in sala, è riuscito a sorprendere tutti gli spettatori con il suo stile che ricorda un affresco pittorico in continuo movimento.&#xA;La trama si concentra su una misteriosa bambina che porta con sé un grande uovo mentre sta affrontando un viaggio attraverso un mondo dalle sembianze post-apocalittiche.</description>
+    </item>
+  </channel>
+</rss>
