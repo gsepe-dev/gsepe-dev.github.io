@@ -15,7 +15,7 @@ Questo film è monumentale sotto ogni punto di vista, tanto da sembrare un colos
 
 La trama si sviluppa interamente attorno alla figura dell'architetto László Toth e sulla sua fuga dall'Europa del dopoguerra nel 1947, in cerca di fortuna in America.
 
-![image info](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.vogue.mx%2Fphotos%2F6786ac24eebe827dad7c3bae%2F16%3A9%2Fw_1280%2Cc_limit%2Fthe-brutalist-pelicula-adam-brody.jpg&f=1&nofb=1&ipt=e1ae00b92ebf2bd6d831ac97d034e2c9bd9c29804c23eba6ad16e81f221a8f16&ipo=images)
+![img01](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.vogue.mx%2Fphotos%2F6786ac24eebe827dad7c3bae%2F16%3A9%2Fw_1280%2Cc_limit%2Fthe-brutalist-pelicula-adam-brody.jpg&f=1&nofb=1&ipt=e1ae00b92ebf2bd6d831ac97d034e2c9bd9c29804c23eba6ad16e81f221a8f16&ipo=images)
 
 Il film si presenta con l’iconica sequenza iniziale che inquadra la statua della libertà posta sottosopra, volendo simboleggiare sia la salvezza e la libertà tipica del sogno americano, ma anche la verità macabra che verrà svelata nel corso del film.
 
@@ -25,7 +25,7 @@ La storia prosegue mostrando le difficoltà quotidiane di Toth, evidenziando qua
 
 Il vero punto di svolta si ha con l’introduzione del mecenate Harrison Lee Van Buren Sr., interpretato egregiamente da Guy Pearce.
 
-![image info](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.volkskrant.nl%2F253229780%2Fwidth%2F2480%2Fthe-brutalist&f=1&nofb=1&ipt=6e67f370afdb2f447e2c741a77cbcd607b6645dded1e7ad1662d8019726766c8&ipo=images)
+![img02](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.volkskrant.nl%2F253229780%2Fwidth%2F2480%2Fthe-brutalist&f=1&nofb=1&ipt=6e67f370afdb2f447e2c741a77cbcd607b6645dded1e7ad1662d8019726766c8&ipo=images)
 
 Questo personaggio rappresenta l'America nella sua forma più capitalistica e priva di cultura, specialmente quando afferma di trovare le conversazioni con Toth "intellettualmente stimolanti", pur ammettendo di non possedere chissà che cultura.
 
@@ -39,7 +39,7 @@ La colonna sonora, composta da suoni semplici ma sempre d'effetto, accompagna la
 
 Anche la scelta di girare in formato "VistaVision" aggiunge un ulteriore livello di bellezza e semplicità alla pellicola, risultando semplice, naturale e piacevole da guardare, proprio come il cemento nudo nelle costruzioni del movimento brutalista.
 
-![image info](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2F7991a515-a583-4858-a8d9-c34b309ad2b5%2Fthe-brutalist-1-ht-bb-241210_1733843591855_hpMain_16x9.jpg%3Fw%3D1600&f=1&nofb=1&ipt=4a677b70ea09074484f3bef906b43050e25be9975b87f0eed0d87452f4db4802&ipo=images)
+![img03](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2F7991a515-a583-4858-a8d9-c34b309ad2b5%2Fthe-brutalist-1-ht-bb-241210_1733843591855_hpMain_16x9.jpg%3Fw%3D1600&f=1&nofb=1&ipt=4a677b70ea09074484f3bef906b43050e25be9975b87f0eed0d87452f4db4802&ipo=images)
 
 In generale, si può affermare che Brady Corbet sia stato un perfetto architetto brutalista nella realizzazione di questa pellicola, riuscendo a trasporre sullo schermo lo spirito e l'estetica del movimento in modo straordinario.
 

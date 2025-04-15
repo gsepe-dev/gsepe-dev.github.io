@@ -24,7 +24,7 @@ title = "Sepe Gennaro"
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/gsepe-dev"
-    weight = 3
+    weight = 2
     pre = "<span data-feather='github'></span>"
     post = ""
 
