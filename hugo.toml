@@ -17,6 +17,7 @@ title = "Sepe Gennaro"
 [menu]
   [[menu.main]]
     name = "Recensioni"
+    pre = "<span data-feather='book'></span>"
     url = "/posts/"
     weight = 1
     
