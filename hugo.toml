@@ -1,8 +1,7 @@
 baseURL = "https://gsepe-dev.github.io/"
 defaultContentLanguage = "it"
-# Automatically generate robots.txt
 enableRobotsTXT = true
-languageCode = "en"
+languageCode = "it"
 theme = "gokarna"
 title = "Sepe Gennaro"
 
@@ -13,7 +12,9 @@ title = "Sepe Gennaro"
 
   description = "Benvenuti nel mio angolo di cinema, dove ogni film diventa una storia da raccontare e un'emozione da condividere."
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
-
+  
+  footer = " "
+  
 [menu]
   [[menu.main]]
     name = "Recensioni"
@@ -22,9 +23,15 @@ title = "Sepe Gennaro"
     weight = 1
     
   [[menu.main]]
+    name = "FAQ"
+    pre = "<span data-feather='info'></span>"
+    url = "/info"
+    weight = 2
+    
+  [[menu.main]]
     identifier = "github"
     url = "https://github.com/gsepe-dev"
-    weight = 2
+    weight = 3
     pre = "<span data-feather='github'></span>"
     post = ""
 
