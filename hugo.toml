@@ -6,15 +6,20 @@ theme = "gokarna"
 title = "Sepe Gennaro"
 
 [params]
+  avatarURL = "/avatar.jpg"
   avatarAltText = "avatar"
   avatarSize = "size-m"
-  avatarURL = "https://avatars.githubusercontent.com/u/162506213?v=4"
-
+  dateFormat = "2 January 2006"
   description = "Benvenuti nel mio angolo di cinema, dove ogni film diventa una storia da raccontare e un'emozione da condividere."
-  showBackToTopButton = true # true or false for "back to top" button on posts and pages
-  
   footer = " "
+  metaKeywords = ["blog", "gokarna", "hugo", "gsepe-dev", "gsepe"]  
+  showBackToTopButton = true
+  togglePreviousAndNextButtons = true
+  displayReadingTime = false
   
+[minify]
+  minifyOutput = true  
+    
 [menu]
   [[menu.main]]
     name = "Recensioni"
