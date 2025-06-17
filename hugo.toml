@@ -28,7 +28,7 @@ title = "Sepe Gennaro"
     weight = 1
     
   [[menu.main]]
-    name = "FAQ"
+    name = "Note legali"
     pre = "<span data-feather='info'></span>"
     url = "/info"
     weight = 2
