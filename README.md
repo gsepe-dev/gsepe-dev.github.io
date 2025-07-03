@@ -15,7 +15,7 @@ Make sure [HUGO](https://gohugo.io/) is installed on your machine.
 To verify the installation:
 
 ```
-hugo server
+hugo version
 ```
 
 ### Installing
@@ -51,4 +51,4 @@ hugo server
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
