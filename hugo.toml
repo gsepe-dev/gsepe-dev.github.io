@@ -14,7 +14,7 @@ title = "Sepe Gennaro"
   footer = " "
   metaKeywords = ["blog", "gokarna", "hugo", "gsepe-dev", "gsepe"]  
   showBackToTopButton = true
-  togglePreviousAndNextButtons = true
+  togglePreviousAndNextButtons = false
   displayReadingTime = false
   
 [minify]
