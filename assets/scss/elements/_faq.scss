@@ -1,0 +1,270 @@
+// .faq-bg-image {
+//     background-image: url(../images/faq/02.jpg);
+// }
+
+// .faq-bg-image-2 {
+//     background-image: url(../images/faq/faq-bg-2.jpg);
+
+// }
+
+// img {
+//     max-width: 100%;
+// }
+
+// .accordion-button:not(.collapsed) {
+//     color: var(--color-primary);
+//     background-color: transparent;
+//     -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+//     box-shadow: none;
+// }
+
+// .accordion-button:focus {
+//     z-index: 3;
+//     border-color: transparent;
+//     outline: none;
+//     -webkit-box-shadow: 0 0 0 0.25rem rgba(13,110,253,.25);
+//     box-shadow: none;
+// }
+
+// .accordion-item {
+//     // background-color: #fff;
+//     border: 0;
+//     border-bottom: 1px solid #e5e5e5;
+// }
+
+// .accordion-button::after {
+    
+//     width: 1.25rem;
+//     height: 1.25rem;
+//     margin-left: auto;
+//     content: "";
+//     background-image: none;
+//     display: none;
+// }
+
+// .accordion-button:not(.collapsed)::after {
+//     background-image: none;
+//     -webkit-transform: rotate(-180deg);
+//     -ms-transform: rotate(-180deg);
+//     transform: rotate(-180deg);
+// }
+// .accordion-button {
+//     max-width: 100%;
+//     display: flex;
+//     justify-content: space-between;
+//     font-size: 16px;
+//     line-height: 30px;
+//     font-weight: var(--s-bold);
+//     padding-left: 0;
+//     .accordion-button-left {
+//         i {
+//             height: 35px;
+//             width: 35px;
+//             line-height: 35px;
+//             text-align: center;
+//             background-color: var(--color-primary);
+//             border-radius: 100%;
+//             color: var(--color-white);
+//             margin-right: 15px;
+//             transition: var(--transition);
+//         }
+//     }
+
+//     .accordion-button-right {
+//         i {
+            
+//             &.fa-arrow-right {
+//                 transform: rotate(1deg);
+//             }
+          
+//           transition: .5s;
+//         }
+
+//     }
+   
+//     &.collapsed {
+
+//         .accordion-button-left {
+//                     i {
+//                         background-color: var(--color-heading);
+//                     }
+//         }
+//         .accordion-button-right {
+//         i {
+//             color: var(--color-heading);
+//             &.fa-arrow-right {
+//                 transform: rotate(45deg);
+//             }
+//         }
+
+//         }
+//     }
+// }
+// .accordion {
+//     padding: 50px;
+//     background-color: #fff;
+//     @media #{$large-mobile} {
+//         padding: 20px;
+//     }
+//     @media #{$small-mobile} {
+//         padding: 20px 10px;
+//     }
+// }
+
+// .accordion-body {
+//     padding-bottom: 35px !important;
+//     padding: 0;
+    
+// }
+// .faq-accordion{
+//     .accordion-item{
+//         .accordion-header{
+//             padding: 7px 0;
+//         }
+//     }
+//     .accordion-item:last-of-type {
+//         border-bottom-right-radius: 0px;
+//         border-bottom-left-radius: 0px;
+//     }
+// }
+
+// .faq-buttom {
+//     background-color: var(--color-heading);
+//     text-align: center;
+//     padding: 30px 0;
+    
+    
+//     .title {
+//         font-size: 16px;
+//         color: var(--color-white);
+//         line-height: 31px;
+//         font-weight: var(--s-regular);
+//         margin: 0;
+//     }
+
+//     p  {
+//         font-size: 16px;
+//         color: var(--color-white);
+//         line-height: 31px;
+//         font-weight: var(--s-regular);
+//         a {
+//             color: var(--color-primary);
+//             font-weight: var(--s-regular);
+//             font-family: var(--font-secondary);
+//         }
+//     }
+// }
+
+// // Start Faq Style Two 
+// .faq-area {
+//     &.faq-style-two {
+//         position: relative;
+//         z-index: 1;
+//         height: 678px;
+//         &::before {
+//             position: absolute;
+//             content: " ";
+//             background-color: #03041ca7;
+//             height: 100%;
+//             width: 100%;
+//             top: 0;
+//             left: 0;
+//             z-index: -1;
+
+//         }
+
+
+//         .faq-inner {
+//             max-width: 850px;
+//             margin: 0 auto;
+
+//             .faq-content {
+//                 text-align: center;
+//                 .vedio-play {
+//                     margin-bottom: 40px;
+//                     .vedio-icone{
+//                         max-width: max-content;
+//                         margin: auto;
+//                     }
+//                 }
+//                 .title {
+//                     font-size: 36px;
+//                     line-height: 1.2;
+//                     font-weight: var(--s-extra-bold);
+//                     color: var(--color-white);
+//                 }
+
+//                 .description {
+//                     color: var(--color-white);
+//                     margin-top: 25px;
+//                 }
+//             }   
+//         }
+//     }
+// }
+
+// .main-faq {
+//     background-color: var(--color-white);
+//     border-radius: 8px;
+//     .faq-accordion {
+//         &.faq-accordion-style-two {
+//             .accordion {
+//                 .section-head {
+//                     padding-bottom: 0;
+//                 }
+//             }
+//         }
+//     }
+// }
+
+// .mt-dec--180{
+//     margin-top: -180px;
+// }
+
+// .tmp-faq-area-three{
+//     max-width: 100%;
+//     margin: auto;
+//     margin-top: -150px;
+//     @media #{$large-mobile} {
+//         margin-top: -100px;
+//     }
+//     .main-faq{
+//         position: relative;
+//         z-index: 2;
+//         overflow: hidden;
+//         display: block;
+//         box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.068);
+//         .thumbnail{
+//             img{
+//                 width: 100%;
+//             }
+//         }
+//         .shape-image{
+//             position: absolute;
+//             left: 20%;
+//             bottom: 0;
+//             max-width: max-content;
+//         }
+//         .accordion-button{
+//             background-color: transparent;
+//         }
+//     }
+//     .accordion-item{
+//         border-bottom: 1px solid #e1e1e1;
+//     }
+// }
+
+
+// body.faq{
+//     background: #f1f1f1;
+// }
+// body.service-details{
+//     background: #f8f8f8;
+// }
+
+
+// .thumbnail-faq-cons{
+//     img{
+//         width: 100%;
+//     }
+// }

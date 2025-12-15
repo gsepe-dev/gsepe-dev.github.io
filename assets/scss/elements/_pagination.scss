@@ -1,0 +1,21 @@
+// pagination area start
+
+.tmp-pagination-area-next-pev{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+    button{
+        height: 50px;
+        min-width: 50px;
+        border-radius: 5px;
+        border: 1px solid #DEE2E6;
+        display: block;
+        transition: .3s;
+        color: #202942;
+        &:hover{
+            background: var(--color-primary);
+            color: #fff;
+        }
+    }
+}

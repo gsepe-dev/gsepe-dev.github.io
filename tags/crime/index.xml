@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crime on Sepe Gennaro</title>
+    <link>http://localhost:1313/tags/crime/</link>
+    <description>Recent content in Crime on Sepe Gennaro</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/crime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOUL</title>
+      <link>http://localhost:1313/reviews/rev10/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/rev10/</guid>
+      <description>&lt;p&gt;There is a melody that vibrates beneath the surface of life, imperceptible but constant, made up of moments, emotions and silences. Soul attempts to capture it, to give it form and sound, through a narrative that intertwines jazz notes and otherworldly visions, philosophy and animation, lightness and depth. It is a film that is not content with simply telling a story, but seeks to explore the very meaning of existence, asking questions that we often avoid, but which have always tormented us.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CINDERELLA THE CAT</title>
+      <link>http://localhost:1313/reviews/rev08/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/rev08/</guid>
+      <description>&lt;p&gt;There are films that manage to bend a myth without breaking it, to reinvent an archetype without dissipating its original magic. &amp;lsquo;Cinderella The Cat&amp;rsquo; belongs to this select circle: a fairy tale tinged with the shadows of crime news, touching on the sharp edges of noir and delving into the pulsating and contradictory heart of Naples.&#xA;No royal balls or golden pumpkins: Alessandro Rak, Ivan Cappiello, Marino Guarnieri and Dario Sansone&amp;rsquo;s Cinderella wanders barefoot among corroded walkways and corridors of the city&amp;rsquo;s underground. No royal balls or golden pumpkins: the Cinderella of Alessandro Rak, Ivan Cappiello, Marino Guarnieri and Dario Sansone wanders barefoot among corroded walkways and metal corridors inside the Megaride, a ship-world stranded in the harbour like a sleeping giant. That rusty steel is the funeral monument to a promise of progress never kept, the emblem of a bright future trapped in the meshes of corruption and abandonment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

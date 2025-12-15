@@ -1,0 +1,78 @@
+// .icon {
+//     display: inline-block;
+//     &.angle-roted {
+//         height: 45px;
+//         width: 45px;
+//         line-height: 45px;
+//         border: 1px solid var(--color-heading);
+//         text-align: center;
+//         border-radius: 50%;
+//         &.bg-color-white {
+//             background-color: var(--color-white);
+//         }
+//         &.border-none {
+//             border: none;
+//         }
+//         i {
+//             transform: rotate(318deg);
+//         }
+//     }
+//     &.bg-color-secondary {
+//         background-color: var(--color-secondary);
+//         i {
+//             color: var(--color-white);
+//             display: inline-block;
+//             height: 45px;
+//             width: 45px;
+//             line-height: 45px;
+//             text-align: center;
+            
+          
+//         }
+        
+//     }
+
+//     &.bg-color-secondary-alt {
+//         background-color: var(--color-secondary-alt);
+//         i {
+//             &.small-icon {
+//                 height: 25px;
+//                 min-width: 25px;
+//                 line-height: 25px;
+//                 text-align: center;
+//                 font-size: 14px;
+//                 display: block;
+//             }
+//             &::before{
+//                 color: #fff;
+//             }
+//         }
+       
+//     }
+
+   
+// }
+
+
+// .icon {
+//     &.icon--30 {
+//         i {
+//             height: 30px;
+//             width: 30px;
+//             line-height: 30px;
+//             text-align: center;
+//             display: inline-block;
+//         }
+//     }
+
+//     &.icon--45 {
+//         i {
+//             height: 45px;
+//             width: 45px;
+//             line-height: 45px;
+//             text-align: center;
+//         }
+//     }
+// }
+
+
