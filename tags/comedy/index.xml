@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comedy on Sepe Gennaro</title>
+    <link>http://localhost:1313/tags/comedy/</link>
+    <description>Recent content in Comedy on Sepe Gennaro</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/comedy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KPOP DEMON HUNTERS</title>
+      <link>http://localhost:1313/reviews/rev07/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/rev07/</guid>
+      <description>&lt;p&gt;If I had told you that the same studio behind ‘The Emoji Movie’ would produce a film about a K-pop band that defeats demons with music, you would probably have burst out laughing.&lt;/p&gt;&#xA;&lt;p&gt;And I don&amp;rsquo;t blame you.&lt;/p&gt;&#xA;&lt;p&gt;Yet &amp;lsquo;Kpop Demon Hunters&amp;rsquo;, released on Netflix in June 2025, has managed to establish itself as one of the platform&amp;rsquo;s most viewed titles, creating a surprisingly active and passionate community around it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>POMPO: THE CINÉPHILE</title>
+      <link>http://localhost:1313/reviews/rev06/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/rev06/</guid>
+      <description>&lt;p&gt;&amp;lsquo;Cinema is the most direct way to compete with God.&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;Without meaning to, Fellini managed to sum up what this film is all about in a single sentence. The dream of an aspiring director turns into a passionate ode to the seventh art, told with the heart of someone who loves it deeply and the mind of someone who knows how to question it. Between surreal comedy and a structure that manages to alternate between comedy and drama, the viewer finds themselves immersed in a meta-cinematic film that shows the process of making a film, starting from dreams and ending with the birth of the work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,194 @@
+/*===============================
+  Tmp Btn Primary
+  ===============================*/
+.tpm-btn-primary {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    overflow: hidden;
+    border: 2px solid transparent;
+    font-family: var(--font-primary);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    border-radius: 100px;
+
+    &.border-sm {
+        border-radius: 10px;
+    }
+
+    i {
+        width: 27px;
+        height: 27px;
+        background: #ffffff;
+        border-radius: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 10px;
+        color: var(--color-secondary);
+    }
+
+    &:hover {
+        border: 2px solid var(--color-primary);
+    }
+}
+
+/*== Mas ==*/
+.mas {
+    position: absolute;
+    color: var(--color-heading);
+    text-align: center;
+    width: 100%;
+    font-family: var(--font-primary);
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    i {
+        width: 27px;
+        height: 27px;
+        background: #ffffff;
+        border-radius: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 10px;
+        color: var(--color-secondary);
+    }
+}
+
+.tpm-btn-primary .btn-class {
+    width: 100%;
+    height: 100%;
+    font-family: var(--font-primary);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 1px;
+    background: var(--color-primary);
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    text-transform: uppercase;
+
+    &.v2 {
+        background: var(--color-primary);
+    }
+
+    &.v3 {
+        background: var(--color-primary);
+        color: var(--color-secondary);
+
+    }
+}
+
+
+.tpm-btn-primary .btn-class,
+.tpm-btn-primary button {
+    -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+    mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+    -webkit-mask-size: 2300% 100%;
+    mask-size: 2300% 100%;
+    -webkit-animation: ani2 0.7s steps(22) forwards;
+    animation: ani2 0.7s steps(22) forwards;
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 30px;
+    color: #ffffff;
+}
+
+.tpm-btn-primary .btn-class:hover,
+.tpm-btn-primary button:hover {
+    -webkit-animation: ani 0.7s steps(22) forwards;
+    animation: ani 0.7s steps(22) forwards;
+    color: var(--color-secondary);
+    padding: 10px 30px;
+}
+
+.tpm-btn-primary {
+    &.tmp-btn-border {
+        border: 2px solid var(--color-border);
+        .btn-class {
+            -webkit-animation: ani 0.7s steps(22) forwards;
+            animation: ani 0.7s steps(22) forwards;
+            color: var(--color-secondary);
+        }
+
+        .btn-class:hover {
+            -webkit-mask-size: 2300% 100%;
+            mask-size: 2300% 100%;
+            -webkit-animation: ani2 0.7s steps(22) forwards;
+            animation: ani2 0.7s steps(22) forwards;
+            color: var(--color-white);
+        }
+        &:hover {
+            border-color: transparent;
+        }
+    }
+}
+
+
+
+
+
+@-webkit-keyframes ani {
+    from {
+        -webkit-mask-position: 0 0;
+        mask-position: 0 0;
+    }
+
+    to {
+        -webkit-mask-position: 100% 0;
+        mask-position: 100% 0;
+    }
+}
+
+@keyframes ani {
+    from {
+        -webkit-mask-position: 0 0;
+        mask-position: 0 0;
+    }
+
+    to {
+        -webkit-mask-position: 100% 0;
+        mask-position: 100% 0;
+    }
+}
+
+@-webkit-keyframes ani2 {
+    from {
+        -webkit-mask-position: 100% 0;
+        mask-position: 100% 0;
+    }
+
+    to {
+        -webkit-mask-position: 0 0;
+        mask-position: 0 0;
+    }
+}
+
+@keyframes ani2 {
+    from {
+        -webkit-mask-position: 100% 0;
+        mask-position: 100% 0;
+    }
+
+    to {
+        -webkit-mask-position: 0 0;
+        mask-position: 0 0;
+    }
+}
+
+
+
+
+
+
+
