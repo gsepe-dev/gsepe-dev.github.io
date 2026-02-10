@@ -6,27 +6,41 @@
     <description>Recent content in Tags on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Action</title>
-      <link>http://localhost:1313/tags/action/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/action/</guid>
+      <title>Adventure</title>
+      <link>http://localhost:1313/tags/adventure/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/adventure/</guid>
       <description></description>
     </item>
     <item>
       <title>Animation</title>
       <link>http://localhost:1313/tags/animation/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/animation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drama</title>
+      <link>http://localhost:1313/tags/drama/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/drama/</guid>
       <description></description>
     </item>
     <item>
       <title>Fantasy</title>
       <link>http://localhost:1313/tags/fantasy/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/fantasy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1313/tags/action/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/action/</guid>
       <description></description>
     </item>
     <item>
@@ -44,24 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Drama</title>
-      <link>http://localhost:1313/tags/drama/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/drama/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Thriller</title>
       <link>http://localhost:1313/tags/thriller/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/thriller/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Adventure</title>
-      <link>http://localhost:1313/tags/adventure/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/adventure/</guid>
       <description></description>
     </item>
     <item>

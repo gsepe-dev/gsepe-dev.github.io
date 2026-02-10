@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/action/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/adventure/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/animation/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/drama/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fantasy/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/rev12/</loc>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/action/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reviews/rev11/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fantasy/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/romance/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/crime/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/drama/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reviews/rev10/</loc>
@@ -37,9 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/thriller/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/adventure/</loc>
-    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reviews/rev09/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
@@ -112,6 +115,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/open-source/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/rev13/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/animazione/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
