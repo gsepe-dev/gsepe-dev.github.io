@@ -2,80 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drama on Sepe Gennaro</title>
-    <link>http://localhost:1313/tags/drama/</link>
+    <link>https://gsepe-dev.github.io/tags/drama/</link>
     <description>Recent content in Drama on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gsepe-dev.github.io/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COSMIC PRINCESS KAGUYA</title>
+      <link>https://gsepe-dev.github.io/reviews/rev15/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gsepe-dev.github.io/reviews/rev15/</guid>
+      <description>&lt;p&gt;The story is set in a future where technology has advanced to such an extent that it enables sensory and visual experiences that were once unimaginable, thanks to devices capable of immersing the user in a fully virtual world. In short, it is the much-coveted metaverse that the big tech companies are desperately trying to achieve.&lt;/p&gt;&#xA;&lt;p&gt;The protagonist is Iroha Sakayori, a seventeen-year-old who spends her days juggling life as a model student with gruelling shifts at her part-time job to support herself. Her goal is to earn her mother&amp;rsquo;s respect (whose absence conveniently serves the film&amp;rsquo;s plot). Despite her hectic life, Iroha always manages to carve out a little time to escape into the virtual world and support her favourite VTuber idol, Runomi Yachio (basically an alternative version of our world&amp;rsquo;s Miku).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DRIVE MY CAR</title>
-      <link>http://localhost:1313/reviews/rev14/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev14/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev14/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev14/</guid>
       <description>&lt;p&gt;&amp;ldquo;But even if you think you know someone well, even if you love that person deeply, you cannot see completely into their heart. You will only feel hurt. But if you try hard enough, you should be able to see quite well into your own heart. So, in the end, what we should do is be honest with our hearts and accept them in a mature way. If you really want to see someone, the only option is to look at yourself directly and deeply.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LIZ AND THE BLUE BIRD</title>
-      <link>http://localhost:1313/reviews/rev13/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev13/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev13/</guid>
-      <description>&lt;p&gt;Liz and the Blue Bird is a 2018 film produced by Kyoto Animation and directed by Naoko Yamada (probably best known to most audiences for her work on the film The Voices of a Distant Bird), focusing on the relationship between Mizore and Nozomi, two close friends who are members of a high school music club.&lt;/p&gt;&#xA;&lt;p&gt;Although the film is only a spin-off from the world of ‘Sound! Euphonium’, it is not necessary to have seen the series to understand the general context and fully enjoy the story. The introductory part, in fact, focuses exclusively on Mizore, a reserved and quiet girl who waits silently for her friend Nozomi (the perfect embodiment of the stereotype of the lively and popular girl among students) on the steps of their school.&lt;/p&gt;</description>
+      <guid>https://gsepe-dev.github.io/reviews/rev13/</guid>
+      <description>&lt;p&gt;Liz and the Blue Bird is a 2018 film produced by Kyoto Animation and directed by Naoko Yamada (probably best known to most audiences for her work on the film The Voices of a Distant Bird), focusing on the relationship between Mizore and Nozomi, two close friends who are members of a high school music club.&lt;/p&gt;&#xA;&lt;p&gt;Although the film is only a spin-off from the world of &amp;lsquo;Sound! Euphonium&amp;rsquo;, it is not necessary to have seen the series to understand the general context and fully enjoy the story. The introductory part, in fact, focuses exclusively on Mizore, a reserved and quiet girl who waits silently for her friend Nozomi (the perfect embodiment of the stereotype of the lively and popular girl among students) on the steps of their school.&lt;/p&gt;</description>
     </item>
     <item>
       <title>THE SNOWMAN</title>
-      <link>http://localhost:1313/reviews/rev12/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev12/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev12/</guid>
-      <description>&lt;p&gt;The Snowman, directed by Dianne Jackson and based on Raymond Briggs&amp;rsquo; illustrated book, is an animated short film that, despite its brevity, leaves a lasting impression on viewers. The story is simple: a child builds a snowman, which comes to life during the night. From that moment on, a friendship is born that leads them on an extraordinary adventure, culminating in the famous flight over snow-covered landscapes and illuminated cities, accompanied by the famous song ‘Walking in the Air’. It is a story that needs no words, because everything is conveyed through images and music, creating a universal language that speaks directly to the emotions.&lt;/p&gt;</description>
+      <guid>https://gsepe-dev.github.io/reviews/rev12/</guid>
+      <description>&lt;p&gt;The Snowman, directed by Dianne Jackson and based on Raymond Briggs&amp;rsquo; illustrated book, is an animated short film that, despite its brevity, leaves a lasting impression on viewers. The story is simple: a child builds a snowman, which comes to life during the night. From that moment on, a friendship is born that leads them on an extraordinary adventure, culminating in the famous flight over snow-covered landscapes and illuminated cities, accompanied by the famous song &amp;lsquo;Walking in the Air&amp;rsquo;. It is a story that needs no words, because everything is conveyed through images and music, creating a universal language that speaks directly to the emotions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SOUL</title>
-      <link>http://localhost:1313/reviews/rev10/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev10/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev10/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev10/</guid>
       <description>&lt;p&gt;There is a melody that vibrates beneath the surface of life, imperceptible but constant, made up of moments, emotions and silences. Soul attempts to capture it, to give it form and sound, through a narrative that intertwines jazz notes and otherworldly visions, philosophy and animation, lightness and depth. It is a film that is not content with simply telling a story, but seeks to explore the very meaning of existence, asking questions that we often avoid, but which have always tormented us.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ARETE HIME</title>
-      <link>http://localhost:1313/reviews/rev09/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev09/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev09/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev09/</guid>
       <description>&lt;p&gt;There are films that don&amp;rsquo;t shout, don&amp;rsquo;t impose themselves, don&amp;rsquo;t try to please everyone. Princess Arete is one of them. Directed by Sunao Katabuchi and produced by Studio 4°C in 2001, it is a work that has chosen silence, slowness and depth. And for this reason, perhaps, it has never received the appreciation it deserves. But today, thanks to its free (albeit temporary) viewing on YouTube, we have a rare opportunity to rediscover it. And we should do so.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CINDERELLA THE CAT</title>
-      <link>http://localhost:1313/reviews/rev08/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev08/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev08/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev08/</guid>
       <description>&lt;p&gt;There are films that manage to bend a myth without breaking it, to reinvent an archetype without dissipating its original magic. &amp;lsquo;Cinderella The Cat&amp;rsquo; belongs to this select circle: a fairy tale tinged with the shadows of crime news, touching on the sharp edges of noir and delving into the pulsating and contradictory heart of Naples.&#xA;No royal balls or golden pumpkins: Alessandro Rak, Ivan Cappiello, Marino Guarnieri and Dario Sansone&amp;rsquo;s Cinderella wanders barefoot among corroded walkways and corridors of the city&amp;rsquo;s underground. No royal balls or golden pumpkins: the Cinderella of Alessandro Rak, Ivan Cappiello, Marino Guarnieri and Dario Sansone wanders barefoot among corroded walkways and metal corridors inside the Megaride, a ship-world stranded in the harbour like a sleeping giant. That rusty steel is the funeral monument to a promise of progress never kept, the emblem of a bright future trapped in the meshes of corruption and abandonment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>POMPO: THE CINÉPHILE</title>
-      <link>http://localhost:1313/reviews/rev06/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev06/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev06/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev06/</guid>
       <description>&lt;p&gt;&amp;lsquo;Cinema is the most direct way to compete with God.&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;Without meaning to, Fellini managed to sum up what this film is all about in a single sentence. The dream of an aspiring director turns into a passionate ode to the seventh art, told with the heart of someone who loves it deeply and the mind of someone who knows how to question it. Between surreal comedy and a structure that manages to alternate between comedy and drama, the viewer finds themselves immersed in a meta-cinematic film that shows the process of making a film, starting from dreams and ending with the birth of the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>COLORFUL</title>
-      <link>http://localhost:1313/reviews/rev05/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev05/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev05/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev05/</guid>
       <description>&lt;p&gt;&amp;ldquo;What colour are you?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Such a simple question, yet it encompasses a sea of meanings.&lt;/p&gt;&#xA;&lt;p&gt;&amp;lsquo;Colorful&amp;rsquo;, the animated film directed by Keiichi Hara (based on the novel by Eto Mori) and released in 2010, takes us on a delicate and profound journey on the theme of rebirth and self-acceptance.&lt;/p&gt;&#xA;&lt;p&gt;The story begins in a rather unusual way: the viewer is enveloped in dark colours and the setting resembles a railway ticket office. Amidst this chaos, voice-over narration introduces us to the thoughts of a lost soul, disoriented and without identity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ETERNAL SUNSHINE OF THE SPOTLESS MIND</title>
-      <link>http://localhost:1313/reviews/rev03/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev03/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev03/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev03/</guid>
       <description>&lt;p&gt;When it comes to love stories that defy convention, &amp;lsquo;Eternal Sunshine of the Spotless Mind&amp;rsquo; stands out as a film that is truly one of a kind.&lt;/p&gt;&#xA;&lt;p&gt;Directed by Michel Gondry and written by Charlie Kaufman, this 2004 masterpiece explores the complexities of human relationships through non-linear storytelling and a unique combination of emotions and philosophical reflections. Halfway between romantic drama and science fiction, the film tackles the themes of memory, regret and emotional resilience, offering the audience an intense and engaging experience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TENSHI NO TAMAGO</title>
-      <link>http://localhost:1313/reviews/rev01/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev01/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev01/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev01/</guid>
       <description>&lt;p&gt;&amp;lsquo;Tenshi no tamago&amp;rsquo; is a 1985 Japanese animated film directed by Mamoru Oshii (also known for the famous &amp;lsquo;Ghost in the Shell&amp;rsquo;) which, since its theatrical release, has managed to surprise all viewers with its style reminiscent of a constantly moving pictorial fresco.&lt;/p&gt;&#xA;&lt;p&gt;The plot centres on a mysterious little girl who carries a large egg with her as she travels through a post-apocalyptic world. Once she arrives in a rather &amp;ldquo;unusual&amp;rdquo; town, the girl meets a boy who wanders silently. From that moment on, the stories of the two characters intertwine and they keep each other company for the rest of the film.&lt;/p&gt;</description>
     </item>
   </channel>
