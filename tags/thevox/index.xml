@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ThevoX on Sepe Gennaro</title>
-    <link>http://localhost:1313/tags/thevox/</link>
+    <link>https://gsepe-dev.github.io/tags/thevox/</link>
     <description>Recent content in ThevoX on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/thevox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gsepe-dev.github.io/tags/thevox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INNOVATION CONTEST</title>
-      <link>http://localhost:1313/articles/art04/</link>
+      <link>https://gsepe-dev.github.io/articles/art04/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/art04/</guid>
+      <guid>https://gsepe-dev.github.io/articles/art04/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently heard some news which, without exaggerating, has completely changed the way I look at the future&amp;hellip; for the better, for once!&lt;/p&gt;&#xA;&lt;p&gt;I recently had the honour of representing &lt;a href=&#34;https://thevo.tech/&#34;&gt;Thevo&lt;/a&gt;, and in particular its research and development division, ThevoX, as part of the &lt;a href=&#34;https://www.edih-pride.eu/&#34;&gt;EDIH PRIDE&lt;/a&gt; project, which also organised the Innovation Contest for Hitachi Rail.&lt;/p&gt;&#xA;&lt;p&gt;My friend (and colleague) &lt;a href=&#34;https://it.linkedin.com/in/francescodemicco&#34;&gt;Francesco De Micco&lt;/a&gt; and I, led by our &lt;a href=&#34;https://it.linkedin.com/in/luigidibiasi&#34;&gt;Luigi Di Biasi&lt;/a&gt;, had the opportunity to present the “SrcProof” project directly to Hitachi Rail&amp;rsquo;s management, in a session reserved exclusively for the twenty projects selected from all the proposals received from across Italy. In short, not exactly a residents&amp;rsquo; meeting.&lt;/p&gt;</description>
     </item>
   </channel>
