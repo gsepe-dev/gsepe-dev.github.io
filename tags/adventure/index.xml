@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adventure on Sepe Gennaro</title>
-    <link>https://gsepe-dev.github.io/tags/adventure/</link>
+    <link>http://localhost:1313/tags/adventure/</link>
     <description>Recent content in Adventure on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gsepe-dev.github.io/tags/adventure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/adventure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARCO</title>
-      <link>https://gsepe-dev.github.io/reviews/rev16/</link>
+      <link>http://localhost:1313/reviews/rev16/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gsepe-dev.github.io/reviews/rev16/</guid>
+      <guid>http://localhost:1313/reviews/rev16/</guid>
       <description>&lt;p&gt;In his 2025 film, Ugo Bienvenu constructs a narrative universe populated by characters who, whilst set within a science-fiction context, embody themes that are profoundly human. Arco, Iris and the robot accompanying them are not merely characters serving the plot, but represent three complementary perspectives: the curious innocence of childhood, the emotional resilience of those growing up in a fragmented world, and the ability of machines to fill the voids left by human beings. Through these three figures, the film explores the relationship between technological progress, social fragility and the evolution of emotions, laying the foundations for a story that combines adventure and social commentary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>THE SNOWMAN</title>
-      <link>https://gsepe-dev.github.io/reviews/rev12/</link>
+      <link>http://localhost:1313/reviews/rev12/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://gsepe-dev.github.io/reviews/rev12/</guid>
+      <guid>http://localhost:1313/reviews/rev12/</guid>
       <description>&lt;p&gt;The Snowman, directed by Dianne Jackson and based on Raymond Briggs&amp;rsquo; illustrated book, is an animated short film that, despite its brevity, leaves a lasting impression on viewers. The story is simple: a child builds a snowman, which comes to life during the night. From that moment on, a friendship is born that leads them on an extraordinary adventure, culminating in the famous flight over snow-covered landscapes and illuminated cities, accompanied by the famous song &amp;lsquo;Walking in the Air&amp;rsquo;. It is a story that needs no words, because everything is conveyed through images and music, creating a universal language that speaks directly to the emotions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ARETE HIME</title>
-      <link>https://gsepe-dev.github.io/reviews/rev09/</link>
+      <link>http://localhost:1313/reviews/rev09/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://gsepe-dev.github.io/reviews/rev09/</guid>
+      <guid>http://localhost:1313/reviews/rev09/</guid>
       <description>&lt;p&gt;There are films that don&amp;rsquo;t shout, don&amp;rsquo;t impose themselves, don&amp;rsquo;t try to please everyone. Princess Arete is one of them. Directed by Sunao Katabuchi and produced by Studio 4°C in 2001, it is a work that has chosen silence, slowness and depth. And for this reason, perhaps, it has never received the appreciation it deserves. But today, thanks to its free (albeit temporary) viewing on YouTube, we have a rare opportunity to rediscover it. And we should do so.&lt;/p&gt;</description>
     </item>
     <item>
       <title>KPOP DEMON HUNTERS</title>
-      <link>https://gsepe-dev.github.io/reviews/rev07/</link>
+      <link>http://localhost:1313/reviews/rev07/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://gsepe-dev.github.io/reviews/rev07/</guid>
+      <guid>http://localhost:1313/reviews/rev07/</guid>
       <description>&lt;p&gt;If I had told you that the same studio behind &amp;lsquo;The Emoji Movie&amp;rsquo; would produce a film about a K-pop band that defeats demons with music, you would probably have burst out laughing.&lt;/p&gt;&#xA;&lt;p&gt;And I don&amp;rsquo;t blame you.&lt;/p&gt;&#xA;&lt;p&gt;Yet &amp;lsquo;Kpop Demon Hunters&amp;rsquo;, released on Netflix in June 2025, has managed to establish itself as one of the platform&amp;rsquo;s most viewed titles, creating a surprisingly active and passionate community around it.&lt;/p&gt;</description>
     </item>
   </channel>

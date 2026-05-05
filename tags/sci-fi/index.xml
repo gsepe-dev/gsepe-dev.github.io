@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sci-Fi on Sepe Gennaro</title>
-    <link>https://gsepe-dev.github.io/tags/sci-fi/</link>
+    <link>http://localhost:1313/tags/sci-fi/</link>
     <description>Recent content in Sci-Fi on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gsepe-dev.github.io/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARCO</title>
-      <link>https://gsepe-dev.github.io/reviews/rev16/</link>
+      <link>http://localhost:1313/reviews/rev16/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gsepe-dev.github.io/reviews/rev16/</guid>
+      <guid>http://localhost:1313/reviews/rev16/</guid>
       <description>&lt;p&gt;In his 2025 film, Ugo Bienvenu constructs a narrative universe populated by characters who, whilst set within a science-fiction context, embody themes that are profoundly human. Arco, Iris and the robot accompanying them are not merely characters serving the plot, but represent three complementary perspectives: the curious innocence of childhood, the emotional resilience of those growing up in a fragmented world, and the ability of machines to fill the voids left by human beings. Through these three figures, the film explores the relationship between technological progress, social fragility and the evolution of emotions, laying the foundations for a story that combines adventure and social commentary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>COSMIC PRINCESS KAGUYA</title>
-      <link>https://gsepe-dev.github.io/reviews/rev15/</link>
+      <link>http://localhost:1313/reviews/rev15/</link>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gsepe-dev.github.io/reviews/rev15/</guid>
+      <guid>http://localhost:1313/reviews/rev15/</guid>
       <description>&lt;p&gt;The story is set in a future where technology has advanced to such an extent that it enables sensory and visual experiences that were once unimaginable, thanks to devices capable of immersing the user in a fully virtual world. In short, it is the much-coveted metaverse that the big tech companies are desperately trying to achieve.&lt;/p&gt;&#xA;&lt;p&gt;The protagonist is Iroha Sakayori, a seventeen-year-old who spends her days juggling life as a model student with gruelling shifts at her part-time job to support herself. Her goal is to earn her mother&amp;rsquo;s respect (whose absence conveniently serves the film&amp;rsquo;s plot). Despite her hectic life, Iroha always manages to carve out a little time to escape into the virtual world and support her favourite VTuber idol, Runomi Yachio (basically an alternative version of our world&amp;rsquo;s Miku).&lt;/p&gt;</description>
     </item>
   </channel>
