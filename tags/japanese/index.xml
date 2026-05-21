@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Japanese on Sepe Gennaro</title>
-    <link>http://localhost:1313/tags/japanese/</link>
+    <link>https://gsepe-dev.github.io/tags/japanese/</link>
     <description>Recent content in Japanese on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gsepe-dev.github.io/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MILLENNIUM ACTRESS</title>
-      <link>http://localhost:1313/reviews/rev17/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev17/</link>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev17/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev17/</guid>
       <description>&lt;p&gt;&lt;em&gt;Millennium Actress&lt;/em&gt; is probably the least talked-about film by the late Satoshi Kon, but also one of his most profound and complex. Unlike his more famous works such as &lt;em&gt;Paprika&lt;/em&gt; and &lt;em&gt;Perfect Blue&lt;/em&gt;, this film demands greater attention from the viewer in order to grasp the plot and the underlying themes that run through it.&lt;/p&gt;&#xA;&lt;p&gt;Kon eschews immediate spectacle and builds the narrative slowly, choosing to begin at the end and retrace the protagonist&amp;rsquo;s entire life. At first, one may feel a sense of disorientation, to the point of feeling overwhelmed by the events, but once you get a feel for the film&amp;rsquo;s rhythm, the story explodes with all its emotional power.&lt;/p&gt;</description>
     </item>
     <item>
       <title>COSMIC PRINCESS KAGUYA</title>
-      <link>http://localhost:1313/reviews/rev15/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev15/</link>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev15/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev15/</guid>
       <description>&lt;p&gt;The story is set in a future where technology has advanced to such an extent that it enables sensory and visual experiences that were once unimaginable, thanks to devices capable of immersing the user in a fully virtual world. In short, it is the much-coveted metaverse that the big tech companies are desperately trying to achieve.&lt;/p&gt;&#xA;&lt;p&gt;The protagonist is Iroha Sakayori, a seventeen-year-old who spends her days juggling life as a model student with gruelling shifts at her part-time job to support herself. Her goal is to earn her mother&amp;rsquo;s respect (whose absence conveniently serves the film&amp;rsquo;s plot). Despite her hectic life, Iroha always manages to carve out a little time to escape into the virtual world and support her favourite VTuber idol, Runomi Yachio (basically an alternative version of our world&amp;rsquo;s Miku).&lt;/p&gt;</description>
     </item>
     <item>
       <title>DRIVE MY CAR</title>
-      <link>http://localhost:1313/reviews/rev14/</link>
+      <link>https://gsepe-dev.github.io/reviews/rev14/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/rev14/</guid>
+      <guid>https://gsepe-dev.github.io/reviews/rev14/</guid>
       <description>&lt;p&gt;&amp;ldquo;But even if you think you know someone well, even if you love that person deeply, you cannot see completely into their heart. You will only feel hurt. But if you try hard enough, you should be able to see quite well into your own heart. So, in the end, what we should do is be honest with our hearts and accept them in a mature way. If you really want to see someone, the only option is to look at yourself directly and deeply.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
