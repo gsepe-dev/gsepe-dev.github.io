@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sepe Gennaro</title>
+    
+    
+    <link rel="stylesheet" href="/assets/css/vendor/fontawesome.css">
+    <link rel="stylesheet" href="/assets/css/plugins/swiper.css">
+    <link rel="stylesheet" href="/assets/css/plugins/odometer.css">
+    <link rel="stylesheet" href="/assets/css/vendor/animate.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css">
+    
+    
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+  <body>
+    
+<header class="tmp-header-area-start header-one header--sticky header--transparent">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="header-content">
+                    <div class="logo">
+                        <h1 style="margin: 0; font-size: 2.5rem;">
+                            <a href="/" style="text-decoration: none; color: inherit;">
+                                Sepe Gennaro
+                            </a>
+                        </h1>
+                    </div>
+                    <nav class="tmp-mainmenu-nav d-none d-xl-block">
+                        <ul class="tmp-mainmenu">
+                            
+                                <li>
+                                    <a href="/reviews/">Reviews</a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/articles/">Articles</a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/projects/">Projects</a>
+                                </li>
+                            
+                            <li>
+                                <a href="https://github.com/gsepe-dev" target="_blank" aria-label="GitHub">
+                                    <img src="/assets/images/icons/github.svg" alt="GitHub" style="height: 24px;">
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+    <main>
+      
+
+    
+    <div class="breadcrumb-area">
+        <div class="container">
+            <div class="row">
+                <div>
+                    <div class="text-center">
+                        <h1 class="title split-collab">FAST16</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="blog-classic-area-wrapper tmp-section-gap">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 col-md-10">
+
+                    <div class="page-content">
+                        <p>SentinelOne recently published an in-depth analysis describing the discovery of a new cyber-sabotage framework called <em>fast16</em>, which forces us to reconsider the timeline of the development of cyber operations carried out by state-sponsored actors in the first half of the 2000s.</p>
+<p>In particular, this malware, written in Lua and dating back to 2005, predates the infamous <em>Stuxnet</em> by at least five years – the so-called first digital weapon known to have physically targeted Iran&rsquo;s nuclear infrastructure.</p>
+<p>Fast16, which until now had remained completely unknown, was designed to infiltrate high-precision computational software in order to alter its results, introducing systematic errors into simulations and models used primarily in fields such as civil engineering, physics and the military.</p>
+<p>Its discovery was made possible by the analysis of a file named <em>svcmgmt.exe</em>, initially mistaken for a simple Windows service wrapper, but which was later found to be a module containing a Lua 5.0 virtual machine, namely a container of encrypted bytecode with references to a kernel driver (<em>fast16.sys</em>) compiled in July 2005. This driver, which is incompatible with versions of Windows later than XP, intercepted and modified executable code at the moment it was read from the disk, applying patching rules targeted primarily at programmes compiled with the Intel C/C++ compiler.</p>
+<p>The aim was to covertly sabotage the fundamental calculations required for design and scientific simulation, causing delays in research programmes and progressive damage to engineering systems.</p>
+<p>The most surprising link concerns the presence of the string &ldquo;fast16&rdquo; in a file (<em>drv_list.txt</em>) included in the materials released in 2016–2017 by the Shadow Brokers group, which claimed to have stolen tools and exploits from the Equation Group, an APT group believed to be linked to the US NSA. This coincidence suggests that fast16 may have been part of a cyber-sabotage arsenal developed well before Stuxnet.</p>
+<p>The <em>svcmgmt.exe</em> module also acted as an adaptable carrier capable of spreading across the network via a Service Control Manager wormlet, which was active only in the absence of known security products or upon explicit instruction from operators.</p>
+<p>An analysis of the patching rules embedded in the driver has identified three possible main targets: LS-DYNA 970, PKPM and MOHID. The presence of LS-DYNA is particularly noteworthy, as it is the software associated with Iranian studies linked to the development of nuclear capabilities, as documented in a 2024 report by the Institute for Science and International Security.</p>
+<p>Given that Stuxnet struck the Natanz facility in 2010 and that earlier versions of the worm were already under development as early as 2005, the discovery of fast16 suggests that cyber-sabotage programmes targeting physical infrastructure were already in operation during those years.</p>
+<p>From this perspective, fast16 is the forerunner of a new approach to software, in which it is seen not merely as a spying tool, but also as a weapon of surgical precision.</p>
+<hr>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    </main>
+
+    
+<div class="copyright-area-one">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="main-wrapper tmp-scroll-trigger animation-order-1">
+                    <p class="copy-right-para">© Sepe Gennaro
+                        <script>
+                            document.write(new Date().getFullYear())
+                        </script> | All Rights Reserved
+                    </p>
+                    <ul class="tmp-link-animation">
+                        
+                            <li>
+                                <a href="/reviews/">Reviews</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/articles/">Articles</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/projects/">Projects</a>
+                            </li>
+                        
+                    </ul>
+                    <a href="/legal">Legal notices</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="scrollToTop" style="display: block;">
+    <div class="arrowUp">
+        <i class="fa-light fa-arrow-up"></i>
+    </div>
+    <div class="water" style="transform: translate(0px, 87%);">
+        <svg viewBox="0 0 560 20" class="water_wave water_wave_back">
+            <use xlink:href="#wave"></use>
+        </svg>
+        <svg viewBox="0 0 560 20" class="water_wave water_wave_front">
+            <use xlink:href="#wave"></use>
+        </svg>
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 20" style="display: none;">
+            <symbol id="wave">
+                <path d="M420,20c21.5-0.4,38.8-2.5,51.1-4.5c13.4-2.2,26.5-5.2,27.3-5.4C514,6.5,518,4.7,528.5,2.7c7.1-1.3,17.9-2.8,31.5-2.7c0,0,0,0,0,0v20H420z" fill="#"></path>
+                <path d="M420,20c-21.5-0.4-38.8-2.5-51.1-4.5c-13.4-2.2-26.5-5.2-27.3-5.4C326,6.5,322,4.7,311.5,2.7C304.3,1.4,293.6-0.1,280,0c0,0,0,0,0,0v20H420z" fill="#"></path>
+                <path d="M140,20c21.5-0.4,38.8-2.5,51.1-4.5c13.4-2.2,26.5-5.2,27.3-5.4C234,6.5,238,4.7,248.5,2.7c7.1-1.3,17.9-2.8,31.5-2.7c0,0,0,0,0,0v20H140z" fill="#"></path>
+                <path d="M140,20c-21.5-0.4-38.8-2.5-51.1-4.5c-13.4-2.2-26.5-5.2-27.3-5.4C46,6.5,42,4.7,31.5,2.7C24.3,1.4,13.6-0.1,0,0c0,0,0,0,0,0l0,20H140z" fill="#"></path>
+            </symbol>
+        </svg>
+
+    </div>
+</div>
+               
+
+<script src="/assets/js/vendor/jquery.js"></script>
+<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+<script src="/assets/js/vendor/waypoints.min.js"></script>
+
+<script src="/assets/js/plugins/odometer.js"></script>
+<script src="/assets/js/vendor/appear.js"></script>
+
+<script src="/assets/js/vendor/jquery-one-page-nav.js"></script>
+<script src="/assets/js/plugins/swiper.js"></script>
+
+<script src="/assets/js/plugins/gsap.js"></script>
+<script src="/assets/js/plugins/splittext.js"></script>
+<script src="/assets/js/plugins/scrolltigger.js"></script>
+<script src="/assets/js/plugins/scrolltoplugins.js"></script>
+<script src="/assets/js/plugins/smoothscroll.js"></script>
+
+
+<script src="/assets/js/vendor/bootstrap.min.js"></script>
+<script src="/assets/js/vendor/waw.js"></script>
+<script src="/assets/js/plugins/isotop.js"></script>
+<script src="/assets/js/plugins/animation.js"></script>
+<script src="/assets/js/plugins/contact.form.js"></script>
+<script src="/assets/js/vendor/backtop.js"></script>
+<script src="/assets/js/plugins/text-type.js"></script>
+
+
+<script src="/assets/js/main.js"></script>
+  </body>
+</html>

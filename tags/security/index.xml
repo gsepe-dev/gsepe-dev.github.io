@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Sepe Gennaro</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on Sepe Gennaro</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAST16</title>
+      <link>http://localhost:1313/articles/art05/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/art05/</guid>
+      <description>&lt;p&gt;SentinelOne recently published an in-depth analysis describing the discovery of a new cyber-sabotage framework called &lt;em&gt;fast16&lt;/em&gt;, which forces us to reconsider the timeline of the development of cyber operations carried out by state-sponsored actors in the first half of the 2000s.&lt;/p&gt;&#xA;&lt;p&gt;In particular, this malware, written in Lua and dating back to 2005, predates the infamous &lt;em&gt;Stuxnet&lt;/em&gt; by at least five years – the so-called first digital weapon known to have physically targeted Iran&amp;rsquo;s nuclear infrastructure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
