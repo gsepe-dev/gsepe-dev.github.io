@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gsepe-dev.github.io/</loc>
+    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gsepe-dev.github.io/tags/animation/</loc>
     <lastmod>2026-05-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,14 +35,14 @@
     <loc>https://gsepe-dev.github.io/tags/security/</loc>
     <lastmod>2026-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gsepe-dev.github.io/</loc>
-    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gsepe-dev.github.io/tags/</loc>
     <lastmod>2026-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/tags/windows/</loc>
     <lastmod>2026-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gsepe-dev.github.io/projects/pro03/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/tags/edih-pride/</loc>
     <lastmod>2026-05-05T00:00:00+00:00</lastmod>
@@ -48,6 +51,9 @@
     <lastmod>2026-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/articles/art04/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gsepe-dev.github.io/projects/</loc>
     <lastmod>2026-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/tags/thevo/</loc>
@@ -101,10 +107,16 @@
     <loc>https://gsepe-dev.github.io/reviews/rev12/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gsepe-dev.github.io/projects/pro02/</loc>
+    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gsepe-dev.github.io/tags/action/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/reviews/rev11/</loc>
+    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gsepe-dev.github.io/projects/pro01/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/tags/romance/</loc>
@@ -185,31 +197,10 @@
     <loc>https://gsepe-dev.github.io/tags/open-source/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gsepe-dev.github.io/tags/animazione/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gsepe-dev.github.io/tags/drammatico/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gsepe-dev.github.io/tags/fantascienza/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gsepe-dev.github.io/tags/fantastico/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gsepe-dev.github.io/tags/giallo/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gsepe-dev.github.io/projects/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gsepe-dev.github.io/tags/scienc-fiction/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/reviews/rev01/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gsepe-dev.github.io/projects/pro01/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gsepe-dev.github.io/tags/ai/</loc>
