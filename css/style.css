@@ -398,7 +398,6 @@ nav a {
    ========================================================================== */
 .contact {
     margin-top: 6rem;
-    margin-bottom: 5rem;
 }
 
 .contact h2 {
@@ -427,7 +426,6 @@ nav a {
 /* Footer */
 .site-footer {
     border-top: 1px solid var(--card-border);
-    margin-top: 8rem;
     padding: 3rem 0;
     background-color: #0b0b0b; 
 }
@@ -439,7 +437,6 @@ nav a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 2rem;
 }
 
 .footer-content p {
@@ -447,23 +444,6 @@ nav a {
     font-size: 0.95rem;
     color: #666;
 }
-
-.footer-social {
-    display: flex;
-    gap: 1.2rem;
-}
-
-.footer-social a {
-    color: #666;
-    font-size: 1.3rem;
-    transition: color 0.2s ease, transform 0.2s ease;
-}
-
-.footer-social a:hover {
-    color: var(--accent-green);
-    transform: translateY(-2px);
-}
-
 
 /* ==========================================================================
    6. RESPONSIVE DESIGN (MEDIA QUERIES CENTRALIZZATE)
