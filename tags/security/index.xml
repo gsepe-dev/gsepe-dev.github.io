@@ -6,8 +6,15 @@
     <description>Recent content in Security on Sepe Gennaro</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gsepe-dev.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XKeyscore</title>
+      <link>https://gsepe-dev.github.io/articles/art06/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gsepe-dev.github.io/articles/art06/</guid>
+      <description>&lt;p&gt;The XKeyscore program is one of the most pervasive and advanced pieces of software in the mass surveillance apparatus operated by the National Security Agency (NSA). In various classified documents and training materials, this tool is described as the cornerstone for collecting and analyzing information from computer networks, a process known in technical jargon as Digital Network Intelligence. Its most striking feature is its immense capacity to monitor global digital activity, covering nearly everything a user does on the internet. Through a simple interface, which mimics the operation of a standard web search engine, intelligence analysts can search numerous databases without needing a court order or prior review by superiors or courts. To launch a search, one simply enters a general justification into an online form, gaining immediate access to historical data and real-time intercepts. This complete absence of technical or legal safeguards within the software merely serves to confirm the validity of the controversial statements made in 2013 by the whistleblower Edward Snowden, who claimed that, from his desk as a private consultant for the NSA, he could have electronically intercepted anyone, from ordinary citizens to federal judges  right up to the President of the United States, provided they had a simple email address.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FAST16</title>
       <link>https://gsepe-dev.github.io/articles/art05/</link>
