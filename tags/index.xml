@@ -10,14 +10,56 @@
 		
 		
 		
-			<lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://gsepe-dev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Adventure</title>
+				<link>https://gsepe-dev.github.io/tags/adventure/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/adventure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Adventure Epic</title>
+				<link>https://gsepe-dev.github.io/tags/adventure-epic/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/adventure-epic/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Buddy Comedy</title>
+				<link>https://gsepe-dev.github.io/tags/buddy-comedy/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/buddy-comedy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Drama</title>
+				<link>https://gsepe-dev.github.io/tags/drama/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/drama/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Privacy</title>
 				<link>https://gsepe-dev.github.io/tags/privacy/</link>
-				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/privacy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Security</title>
+				<link>https://gsepe-dev.github.io/tags/security/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Space Sci-Fi</title>
+				<link>https://gsepe-dev.github.io/tags/space-sci-fi/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/space-sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -32,13 +74,6 @@
 				<link>https://gsepe-dev.github.io/tags/sci-fi/</link>
 				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/sci-fi/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Security</title>
-				<link>https://gsepe-dev.github.io/tags/security/</link>
-				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/security/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -67,13 +102,6 @@
 				<link>https://gsepe-dev.github.io/tags/cyber/</link>
 				<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/cyber/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Drama</title>
-				<link>https://gsepe-dev.github.io/tags/drama/</link>
-				<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/drama/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -116,13 +144,6 @@
 				<link>https://gsepe-dev.github.io/tags/thevox/</link>
 				<pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/thevox/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Adventure</title>
-				<link>https://gsepe-dev.github.io/tags/adventure/</link>
-				<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/adventure/</guid>
 				<description></description>
 			</item>
 			<item>

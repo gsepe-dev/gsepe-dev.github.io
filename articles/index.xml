@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://gsepe-dev.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chat Control</title>
+				<link>https://gsepe-dev.github.io/articles/art07/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/articles/art07/</guid>
+				<description>&lt;p&gt;Well, here we are&amp;hellip; it&amp;rsquo;s finally happened.&lt;/p&gt;&#xA;&lt;p&gt;Not because it was inevitable, but because the European Union continues to follow a certain pattern: when the interests of the most powerful come into play, the protection of rights and democracy seems to become a mere detail that can be sacrificed without too many qualms. In short, a script we now know all too well.&lt;/p&gt;&#xA;&lt;p&gt;On 9 July, the European Parliament approved the exemption to the ePrivacy Regulation, the very same exemption that had been rejected in the spring. In practice, this gives big tech the green light to analyse private messages and emails in search of child sexual abuse material. On paper, it looks like a measure for the &lt;em&gt;common good&lt;/em&gt;, but those concerned with digital privacy have been sounding the alarm for some time now. And not out of paranoia&amp;hellip; because once a door like this is opened, closing it again becomes almost impossible.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>XKeyscore</title>
 				<link>https://gsepe-dev.github.io/articles/art06/</link>
