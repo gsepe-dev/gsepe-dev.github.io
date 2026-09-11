@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://gsepe-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>LG TVs</title>
+				<link>https://gsepe-dev.github.io/articles/art09/</link>
+				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/articles/art09/</guid>
+				<description>&lt;p&gt;At a time when home technology seems to have reached such a level of integration that it blends into our daily routines, becoming almost a natural extension of our lives, the controversy surrounding LG televisions has taken on significance that goes far beyond a mere technical issue, because it has brought back to the forefront of the discussion a topic that, despite having been around for years, rarely manages to emerge with the force needed to compel us to look at it without distractions. The relationship between what we believe we control and what, in reality, is watching us while we use it or even when we think we aren&amp;rsquo;t using it at all. Investigations conducted by Gamers Nexus, in collaboration with Level1Techs and several independent researchers, have in fact shown that certain models of LG OLED TVs do not merely collect information about what is displayed on the screen, but appear to be an integral part of a sort of continuous monitoring of the home&amp;rsquo;s digital environment as if the television had become an active node in a broader network, capable of observing, categorize, and interpret what is happening around it even when the screen is off, the device is in standby mode, or, in some cases, even disconnected from the network.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SING A BIT OF HARMONY</title>
+				<link>https://gsepe-dev.github.io/reviews/rev21/</link>
+				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/reviews/rev21/</guid>
+				<description>&lt;p&gt;At a time when reflection on the relationship between technology and human sensibility seems to be taking on a prominent role in our lives, &lt;em&gt;Sing a Bit of Harmony&lt;/em&gt; delicately weaves itself into this discourse, choosing to explore not so much the wonder of innovation as the complexity of the emotions that arise when an artificial intelligence, designed to assist and simplify daily life, begins to act with a curiosity reminiscent of that of human beings, as if the line between what is programmed and what is perceived suddenly becomes blurrier and harder to define.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>NO DATE, NO SIGNATURE</title>
+				<link>https://gsepe-dev.github.io/reviews/rev20/</link>
+				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/reviews/rev20/</guid>
+				<description>&lt;p&gt;Each of us, at least once in our lives, has found ourselves amazed by how much we&amp;rsquo;ve come to love a movie that we&amp;rsquo;d always put aside to prioritize something more recent or better known.&lt;/p&gt;&#xA;&lt;p&gt;“Doubt – A Case of Conscience” is a film that perfectly reflects this situation thanks to the deep sense of immersion the viewer experiences while following the lives of the various characters, whose stories gradually become intertwined without the use of directorial choices intended to shock the audience.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>USA Today Co. &amp; Palantir</title>
+				<link>https://gsepe-dev.github.io/articles/art08/</link>
+				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/articles/art08/</guid>
+				<description>&lt;p&gt;There comes a moment, when observing the transformations taking place in the world of news, when one gets the impression that something is changing not only on the surface of the news, but in the very structure of the relationship between those who produce it and those who read it as if a slow and almost imperceptible shift were redrawing the rules of a pact that, for decades, we have taken for granted. The decision by USA Today Co. (the country&amp;rsquo;s largest newspaper chain) to form a partnership with Palantir (a company that for years has operated in contexts where data management is intertwined with government, military, and surveillance operations) seems to fit squarely within this kind of change, because it involves not just a business strategy or a technological upgrade, but touches on a deeper dimension: the one that defines the trust between a newspaper and its audience.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Chat Control</title>
 				<link>https://gsepe-dev.github.io/articles/art07/</link>
@@ -221,7 +249,7 @@
 				<link>https://gsepe-dev.github.io/legal/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/legal/</guid>
-				<description>&lt;p&gt;Il sito è stato sviluppato utilizzando il framework &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Tutti i contenuti presenti su questo sito web, inclusi testi, immagini e materiali multimediali, sono protetti da diritto d&amp;rsquo;autore. Qualsiasi utilizzo non autorizzato, incluso ma non limitato a riproduzione, distribuzione o impiego per l&amp;rsquo;addestramento di intelligenze artificiali, è vietato. Le immagini presenti appartengono ai rispettivi autori o provengono da risorse libere da copyright; in caso di violazione o controversie, ti invito a contattarmi per una pronta rimozione del contenuto.&lt;/p&gt;</description>
+				<description>&lt;p&gt;The website was developed using the &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt; framework.&lt;/p&gt;&#xA;&lt;p&gt;All content on this website, including text, images, and multimedia materials, is protected by copyright. Any unauthorized use, including but not limited to reproduction, distribution, or use for training artificial intelligence, is prohibited. The images on this site belong to their respective authors or are sourced from copyright-free resources; in the event of a violation or dispute, please contact me so that the content can be promptly removed.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
