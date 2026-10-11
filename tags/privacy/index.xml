@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://gsepe-dev.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>KEEP ANDROID OPEN</title>
+				<link>https://gsepe-dev.github.io/articles/art10/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/articles/art10/</guid>
+				<description>&lt;p&gt;In August 2025, Google announced that, from 2027, every Android developer will have to register with Google in order for their apps to be installed on Android devices. And this does not just apply to apps distributed via the Play Store, as the rule will also apply to those downloaded from F-Droid or created purely for personal use.&lt;/p&gt;&#xA;&lt;p&gt;To register, you will need to pay a fee, accept Google&amp;rsquo;s terms and conditions, provide proof of identity, demonstrate that you hold the private key used to sign applications, and provide the identifiers for your current and future apps.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>LG TVs</title>
 				<link>https://gsepe-dev.github.io/articles/art09/</link>

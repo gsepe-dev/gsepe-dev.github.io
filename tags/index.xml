@@ -10,9 +10,51 @@
 		
 		
 		
-			<lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://gsepe-dev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dark Comedy</title>
+				<link>https://gsepe-dev.github.io/tags/dark-comedy/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/dark-comedy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Drama</title>
+				<link>https://gsepe-dev.github.io/tags/drama/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/drama/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Privacy</title>
+				<link>https://gsepe-dev.github.io/tags/privacy/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/privacy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Psychological Thriller</title>
+				<link>https://gsepe-dev.github.io/tags/psychological-thriller/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/psychological-thriller/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Security</title>
+				<link>https://gsepe-dev.github.io/tags/security/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Thriller</title>
+				<link>https://gsepe-dev.github.io/tags/thriller/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://gsepe-dev.github.io/tags/thriller/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Anime</title>
 				<link>https://gsepe-dev.github.io/tags/anime/</link>
@@ -25,13 +67,6 @@
 				<link>https://gsepe-dev.github.io/tags/artificial-intelligence/</link>
 				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/artificial-intelligence/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Drama</title>
-				<link>https://gsepe-dev.github.io/tags/drama/</link>
-				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/drama/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -49,24 +84,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Privacy</title>
-				<link>https://gsepe-dev.github.io/tags/privacy/</link>
-				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/privacy/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Sci-Fi</title>
 				<link>https://gsepe-dev.github.io/tags/sci-fi/</link>
 				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/sci-fi/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Security</title>
-				<link>https://gsepe-dev.github.io/tags/security/</link>
-				<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/security/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -88,13 +109,6 @@
 				<link>https://gsepe-dev.github.io/tags/persina/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/persina/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Thriller</title>
-				<link>https://gsepe-dev.github.io/tags/thriller/</link>
-				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/thriller/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -256,13 +270,6 @@
 				<link>https://gsepe-dev.github.io/tags/coming-of-age/</link>
 				<pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
 				<guid>https://gsepe-dev.github.io/tags/coming-of-age/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Dark Comedy</title>
-				<link>https://gsepe-dev.github.io/tags/dark-comedy/</link>
-				<pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-				<guid>https://gsepe-dev.github.io/tags/dark-comedy/</guid>
 				<description></description>
 			</item>
 			<item>
